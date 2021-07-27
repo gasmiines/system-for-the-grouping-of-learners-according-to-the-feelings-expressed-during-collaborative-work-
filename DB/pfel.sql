@@ -42,8 +42,7 @@ CREATE TABLE `administrateur` (
 --
 
 INSERT INTO `administrateur` (`idadm`, `nomadm`, `prenomadm`, `usernameadm`, `adresseadm`, `motDePasseadm`, `telephoneadm`) VALUES
-(1, 'Hallaci', 'Samir', 'hallaci.samir', 'hallaci.samir@univ-guelma.dz', '513868a1ab92de4c34d68013d59603fa', 555070814),
-(3, 'farou', 'brahim', 'faroubrahim', 'farou@gmail.com', '66e84705d254dde150f0b067a41fa93f', 147626236);
+(1, 'XXX', 'XXX', 'X.X', 'X.X@gmail.com', '513868a1ab92de4c34d68013d59603fa', 555070814),
 
 -- --------------------------------------------------------
 
@@ -2486,11 +2485,7 @@ CREATE TABLE `utilisateur` (
 --
 
 INSERT INTO `utilisateur` (`user_id`, `unique_id`, `role`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES
-(1, 749056049, 'etudiant', 'Gasmi', 'ines', 'gasmii454@gmail.com', 'e559744627cceb9d06579d548b57bc01', '1622310493OIP.jpg', 'Offline now'),
-(2, 1610197871, 'etudiant', 'Maizi', 'khawla', 'khawla@gmail.com', '8b5164392e5916d24352066a37250be4', 'OIP (1).jpg', 'Offline now'),
-(5, 116831389, 'enseignant', 'hallaci', 'karim', 'hallaci@gmail.com', 'ea33a3ada6eea3386197428f671da0b6', '162565339916226212761622621063OIP (2).jpg', 'Offline now'),
-(6, 589170582, 'enseignant', 'gouasmi', 'noureddine', 'gouasmi.noureddine@univ-guelma.dz', 'b170c8208dbcc7d59eb989680ede2ed9', '16256553951622621063OIP (2).jpg', 'Active now'),
-(8, 1609411411, 'etudiant', 'bouchra', 'b', 'bouchra@gmail.com', 'f645b5d6fe8a036457a5a5a98f1a0413', '162577455916249097331622555913OIP (1).jpg', 'Offline now');
+(1, 749056049, 'etudiant', 'Gasmi', 'ines', 'XX@gmail.com', 'e559744627cceb9d06579d548b57bc01', '1622310493OIP.jpg', 'Offline now'),
 
 --
 -- Index pour les tables déchargées
